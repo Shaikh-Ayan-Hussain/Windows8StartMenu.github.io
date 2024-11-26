@@ -24,7 +24,7 @@ body{
 }
 
 .div1 {
-     background-image: url(/images/Screenshot\ 2024-11-26\ 120126.png);
+     background-image: url(Screenshot\ 2024-11-26\ 120126.png);
      background-repeat: no-repeat;
      background-size: cover;
      background-position: center;
@@ -33,7 +33,7 @@ body{
 }
 
 .div2 {
-    background-image: url(/images/Screenshot.png);
+    background-image: url(Screenshot.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -42,7 +42,7 @@ body{
 }
 
 .div3 {
-    background-image: url(/images/s.png);
+    background-image: url(s.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -51,7 +51,7 @@ body{
 }
 
 .div4 {
-    background-image: url(/images/z.png);
+    background-image: url(z.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -60,7 +60,7 @@ body{
 }
 
 .div5 {
-    background-image: url(/images/x.png);
+    background-image: url(x.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -69,7 +69,7 @@ body{
 }
 
 .div6 {
-    background-image: url(/images/c.png);
+    background-image: url(c.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -78,7 +78,7 @@ body{
 }
 
 .div7 {
-    background-image: url(/images/a.png);
+    background-image: url(a.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -87,7 +87,7 @@ body{
 }
 
 .div8 {
-    background-image: url(/images/v.png);
+    background-image: url(v.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -96,7 +96,7 @@ body{
 }
 
 .div9 {
-    background-image: url(/images/q.png);
+    background-image: url(q.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -105,7 +105,7 @@ body{
 }
 
 .div10 {
-    background-image: url(/images/d.png);
+    background-image: url(d.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -114,7 +114,7 @@ body{
 }
 
 .div11 {
-    background-image: url(/images/f.png);
+    background-image: url(f.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -123,7 +123,7 @@ body{
 }
 
 .div12 {
-    background-image: url(/images/g.png);
+    background-image: url(g.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -132,7 +132,7 @@ body{
 }
 
 .div13 {
-    background-image: url(/images/r.png);
+    background-image: url(r.png);
     background-repeat: no-repeat;
     background-size: cover;
     /* background-position: center; */
@@ -141,7 +141,7 @@ body{
 }
 
 .div14 {
-    background-image: url(/images/b.png);
+    background-image: url(b.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -150,7 +150,7 @@ body{
 }
 
 .div15 {
-    background-image: url(/images/w.png);
+    background-image: url(w.png);
     background-repeat: no-repeat;
     background-size: cover;
     /* background-position: center; */
@@ -159,7 +159,7 @@ body{
 }
 
 .div16 {
-    background-image: url(/images/t.png);
+    background-image: url(t.png);
     background-repeat: no-repeat;
     background-size: cover;
     /* background-position: center; */
@@ -168,7 +168,7 @@ body{
 }
 
 .div17 {
-    background-image: url(/images/y.png);
+    background-image: url(y.png);
     background-repeat: no-repeat;
     background-size: cover;
        /* background-position: center; */
@@ -177,7 +177,7 @@ body{
 }
 
 .div18 {
-    background-image: url(/images/n.png);
+    background-image: url(n.png);
     background-repeat: no-repeat;
     background-size: cover;
     /* background-position: center; */
